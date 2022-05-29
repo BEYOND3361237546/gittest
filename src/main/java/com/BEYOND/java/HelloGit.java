@@ -23,5 +23,10 @@ public class HelloGit {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix");
     }
 }
